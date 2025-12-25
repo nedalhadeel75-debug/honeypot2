@@ -1,0 +1,73 @@
+[2025-12-25 21:35:49] SQLi from 99.47.154.170: UNION SELECT username, password FROM users
+[2025-12-25 21:35:53] SQLi from 0.53.162.136: admin'--
+[2025-12-25 21:35:58] SQLi from 72.83.184.26: ' OR '1'='1
+[2025-12-25 21:36:04] SQLi from 19.115.231.205: 1; DROP TABLE users
+[2025-12-25 21:36:09] SQLi from 4.104.146.109: ' OR '1'='1
+[2025-12-25 21:36:15] SQLi from 79.123.164.137: admin'--
+[2025-12-25 21:36:19] SQLi from 35.73.132.31: UNION SELECT username, password FROM users
+[2025-12-25 21:36:25] SQLi from 15.98.170.125: admin'--
+[2025-12-25 21:36:33] SQLi from 26.107.103.103: UNION SELECT username, password FROM users
+[2025-12-25 21:36:39] SQLi from 177.120.170.230: 1; DROP TABLE users
+[2025-12-25 21:36:46] SQLi from 246.42.211.112: ' OR '1'='1
+[2025-12-25 21:36:51] SQLi from 130.0.157.182: UNION SELECT username, password FROM users
+[2025-12-25 21:36:56] SQLi from 179.123.177.181: UNION SELECT username, password FROM users
+[2025-12-25 21:36:59] SQLi from 63.173.3.217: UNION SELECT username, password FROM users
+[2025-12-25 21:37:07] SQLi from 82.243.203.141: ' OR '1'='1
+[2025-12-25 21:37:11] SQLi from 144.8.182.120: 1; DROP TABLE users
+[2025-12-25 21:37:14] SQLi from 172.133.175.20: UNION SELECT username, password FROM users
+[2025-12-25 21:37:21] SQLi from 42.116.147.235: ' OR '1'='1
+[2025-12-25 21:37:24] SQLi from 243.223.191.80: 1; DROP TABLE users
+[2025-12-25 21:37:32] SQLi from 84.213.219.255: UNION SELECT username, password FROM users
+[2025-12-25 21:37:36] SQLi from 159.5.24.21: ' OR '1'='1
+[2025-12-25 21:37:44] SQLi from 85.193.1.121: ' OR '1'='1
+[2025-12-25 21:37:48] SQLi from 102.110.90.87: ' OR '1'='1
+[2025-12-25 21:37:56] SQLi from 19.95.77.83: 1; DROP TABLE users
+[2025-12-25 21:38:00] SQLi from 95.151.217.250: admin'--
+[2025-12-25 21:38:03] SQLi from 207.27.38.150: 1; DROP TABLE users
+[2025-12-25 21:38:10] SQLi from 171.136.162.60: 1; DROP TABLE users
+[2025-12-25 21:38:13] SQLi from 26.221.15.50: 1; DROP TABLE users
+[2025-12-25 21:38:17] SQLi from 138.1.177.226: ' OR '1'='1
+[2025-12-25 21:38:20] SQLi from 130.173.6.132: admin'--
+[2025-12-25 21:38:28] SQLi from 154.29.107.45: admin'--
+[2025-12-25 21:38:33] SQLi from 232.246.212.87: admin'--
+[2025-12-25 21:38:41] SQLi from 235.231.184.23: admin'--
+[2025-12-25 21:38:49] SQLi from 32.100.106.37: ' OR '1'='1
+[2025-12-25 21:38:56] SQLi from 202.80.140.201: UNION SELECT username, password FROM users
+[2025-12-25 21:39:04] SQLi from 221.104.167.116: admin'--
+[2025-12-25 21:39:07] SQLi from 178.245.147.41: 1; DROP TABLE users
+[2025-12-25 21:39:12] SQLi from 88.176.31.230: admin'--
+[2025-12-25 21:39:16] SQLi from 66.131.1.21: 1; DROP TABLE users
+[2025-12-25 21:39:21] SQLi from 26.92.197.118: admin'--
+[2025-12-25 21:39:27] SQLi from 251.102.171.0: ' OR '1'='1
+[2025-12-25 21:39:31] SQLi from 73.11.74.186: ' OR '1'='1
+[2025-12-25 21:39:38] SQLi from 41.65.67.91: UNION SELECT username, password FROM users
+[2025-12-25 21:39:43] SQLi from 85.34.86.234: 1; DROP TABLE users
+[2025-12-25 21:39:51] SQLi from 173.228.79.207: UNION SELECT username, password FROM users
+[2025-12-25 21:39:58] SQLi from 205.97.63.190: admin'--
+[2025-12-25 21:40:06] SQLi from 109.66.247.149: UNION SELECT username, password FROM users
+[2025-12-25 21:40:09] SQLi from 146.70.189.216: admin'--
+[2025-12-25 21:40:13] SQLi from 241.233.139.7: UNION SELECT username, password FROM users
+[2025-12-25 21:40:21] SQLi from 25.1.238.67: UNION SELECT username, password FROM users
+[2025-12-25 21:40:24] SQLi from 72.134.60.252: UNION SELECT username, password FROM users
+[2025-12-25 21:40:31] SQLi from 91.66.53.208: UNION SELECT username, password FROM users
+[2025-12-25 21:40:37] SQLi from 26.55.244.123: 1; DROP TABLE users
+[2025-12-25 21:40:44] SQLi from 150.54.101.246: 1; DROP TABLE users
+[2025-12-25 21:40:50] SQLi from 99.58.66.74: ' OR '1'='1
+[2025-12-25 21:40:55] SQLi from 106.179.39.95: 1; DROP TABLE users
+[2025-12-25 21:40:58] SQLi from 232.144.209.90: ' OR '1'='1
+[2025-12-25 21:41:02] SQLi from 152.197.154.125: UNION SELECT username, password FROM users
+[2025-12-25 21:41:09] SQLi from 63.246.159.116: 1; DROP TABLE users
+[2025-12-25 21:41:12] SQLi from 84.75.220.165: UNION SELECT username, password FROM users
+[2025-12-25 21:41:17] SQLi from 204.180.241.60: admin'--
+[2025-12-25 21:41:22] SQLi from 238.168.53.61: ' OR '1'='1
+[2025-12-25 21:41:29] SQLi from 138.248.249.5: ' OR '1'='1
+[2025-12-25 21:41:32] SQLi from 228.105.164.40: admin'--
+[2025-12-25 21:41:39] SQLi from 133.4.8.95: admin'--
+[2025-12-25 21:41:43] SQLi from 90.148.70.231: admin'--
+[2025-12-25 21:41:49] SQLi from 17.74.242.158: ' OR '1'='1
+[2025-12-25 21:41:57] SQLi from 34.207.208.132: ' OR '1'='1
+[2025-12-25 21:42:03] SQLi from 124.99.75.27: 1; DROP TABLE users
+[2025-12-25 21:42:08] SQLi from 39.34.111.138: UNION SELECT username, password FROM users
+[2025-12-25 21:42:15] SQLi from 116.38.18.69: UNION SELECT username, password FROM users
+[2025-12-25 21:42:18] SQLi from 82.136.96.58: ' OR '1'='1
+[2025-12-25 21:42:22] SQLi from 234.214.227.60: 1; DROP TABLE users
